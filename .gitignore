@@ -1,0 +1,29 @@
+# Ignore LaTeX build files.
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.lol
+*.out
+*.pdf
+*.run.xml
+*.synctex
+*.synctex.gz
+*.acn
+*.glo
+*.ist
+*.lof
+*.lot
+*.toc
+
+# minted package
+_minted-main/
+
+main.acr
+main.alg
+main.glg
+main.gls
